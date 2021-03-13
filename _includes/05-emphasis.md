@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below is a __list__ of my _technical_ skills:
+
+## Foods
+- **Hard-boiled** eggs
+
+## Notation Software
+
+- *Finale*
